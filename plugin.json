@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Scans a pasted statement/subscription list for unused, duplicate, or silently-renewed subscriptions (benchmark waste ~$50-200/mo, labelled estimate).",
+  "keywords": [
+    "auditor",
+    "kairos",
+    "small business",
+    "subscription"
+  ],
+  "license": "MIT",
+  "name": "kairos-subscription-auditor",
+  "repository": "https://github.com/baselam88/kairos-subscription-auditor-plugin",
+  "version": "0.1.0"
+}
